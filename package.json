@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AndrewHuang771/Nod-Jes/issues"
   },
-  "homepage": "https://github.com/AndrewHuang771/Nod-Jes#readme"
+  "homepage": "https://github.com/AndrewHuang771/Nod-Jes#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
 }
